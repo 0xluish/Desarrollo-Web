@@ -1,0 +1,11 @@
+{
+  "name": "03_tercera_pre_entrega",
+  "version": "1.0.0",
+  "description": "<h1>Tercera Pre-Entrega del Proyecto Final para el curso de Desarrollo Web</h1>\r <p>Este proyecto pretende ser una página web dedicada al emprendimiento de una cafetería.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
