@@ -6,6 +6,18 @@
 <p>El sitio web es responsive en celulares, tabletas y desktop.</p>
 <p>Puedes visualizar el sitio web desplegado :point_right: <a href="https://0xluish.github.io/Desarrollo-Web/" target="_blank">aquí</a> :point_left:</p>
 
+<h2>Roadmap de la carrera :hourglass_flowing_sand:</h2>
+<p>A lo largo del año actualizaré los proyectos del curso Fullstack (puedes ver más <a href="https://github.com/0xluish/Carrera-Fullstack">aquí</a>). Da click en cada módulo para ir directamente a su repositorio.</p>
+<ol>
+    <li><a href="https://github.com/0xluish/Desarrollo-Web">Desarrollo Web</a> (Diciembre 2022 - Febrero 2023)</li>
+    <li><!--<a href="https://github.com/0xluish/JavaScript">JavaScript</a>-->
+        JavaScript (Febrero 2023 - Abril 2023)</li>
+    <li><!--<a href="https://github.com/0xluish/03-Carrera-Fullstack/tree/master/02.%20ReactJS">ReactJS</a>-->
+        React JS (Mayo 2023 - Junio 2023)</li>
+    <li><!--<a href="https://github.com/0xluish/03-Carrera-Fullstack/tree/master/02.%20Programacion%20Backend">Prograación Backedn</a>-->
+        Programación Backend (Julio 2023 - Diciembre 2023)</li>
+</ol>
+
 <h2>:mailbox: Feedback:</h2>
 <p>Si tienes alguna pregunta, comentario o recomendación, no dudes en contactarme en los siguientes links:</br></p>
 
