@@ -4,7 +4,7 @@
 <h2>:bangbang: Importante :bangbang:</h2>
 <p>La web contiene un menú de navegación con dropdown, links e íconos funcionales, imágenes, mapas y transiciones.</p>
 <p>El sitio web es responsive en celulares, tabletas y desktop.</p>
-<p>Puedes visualizar el sitio web desplegado :point_right: <a href="https://0xluish.github.io/Carrera-Fullstack/01.%20Desarrollo%20Web/index.html">aquí</a> :point_left:</p>
+<p>Puedes visualizar el sitio web desplegado :point_right: <a href="https://0xluish.github.io/Desarrollo-Web/">aquí</a> :point_left:</p>
 
 <h2>:mailbox: Feedback:</h2>
 <p>Si tienes alguna pregunta, comentario o recomendación, no dudes en contactarme en los siguientes links:</br></p>
